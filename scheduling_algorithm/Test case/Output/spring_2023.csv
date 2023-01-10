@@ -1,0 +1,96 @@
+,Course Name,Course Faculty,Course Capacity,Day,Time,Classroom
+0,ARTS101_Spring2023_S03,Jacqueline Hoang-Nguyen,50,Mon_Wed,8:00 - 9:30,506
+1,ARTS104_Spring2023_S02,Trinh Dinh Le Minh,25,Mon_Wed,8:00 - 9:30,302
+2,ARTS105_Spring2023_S01,Linda Zhang,50,Tue_Fri,8:00 - 9:30,506
+3,ARTS106_Spring2023_S01,Alex Tu Nguyen,25,Tue_Fri,8:00 - 9:30,302
+4,ARTS107_Spring2023_S02,Richard Streitmatter-Tran,25,Mon_Wed,9:45 - 11:15,302
+5,ARTS212_Spring2023_S01,Richard Streitmatter-Tran,25,Tue_Fri,9:45 - 11:15,302
+6,ARTS213_Spring2023_S01,Alex Tu Nguyen,25,Tue_Thu,1:15 - 2:45,302
+7,ARTS304_Spring2023_S01,Linda Zhang,30,Wed_Fri,1:15 - 2:45,302
+8,ARTS305_Spring2023_S01,Arlette Quynh-Anh Tran,30,Mon_Wed,3:00 - 4:30,302
+9,CORE102_Spring2023_S01,Nguyen Thanh Trung,45,Mon_Wed,8:00 - 9:30,454
+10,CORE102_Spring2023_S02,Pamela Corey,45,Tue_Fri,8:00 - 9:30,454
+11,CORE102_Spring2023_S03,Vu Minh Hoang,45,Mon_Wed,9:45 - 11:15,454
+12,CORE102_Spring2023_S04,Tram Luong,45,Tue_Fri,9:45 - 11:15,454
+13,CORE102_Spring2023_S05,Nicolas Weber,45,Tue_Thu,1:15 - 2:45,454
+14,CORE102_Spring2023_S06,Vu Minh Hoang,45,Wed_Fri,1:15 - 2:45,454
+15,CORE103_Spring2023_S06,Phan Tuan Ngoc,45,Mon_Wed,3:00 - 4:30,454
+16,CORE103_Spring2023_S07,Le Nhat Tan,45,Tue_Fri,3:00 - 4:30,454
+17,CORE103_Spring2023_S08,Van Truong Son,45,Thu,8:00 - 11:15,454
+18,CORE103_Spring2023_S09,Luu Duc Thi,45,Mon_Wed,9:45 - 11:15,506
+19,CORE104_Spring2023_S04,Hoang Minh To Nga,45,Tue_Fri,9:45 - 11:15,506
+20,CORE104_Spring2023_S05,Nguyen Thi Huyen Trang,45,Tue_Thu,1:15 - 2:45,506
+21,CORE104_Spring2023_S06,Nguyen Thi Hong Dung,45,Wed_Fri,1:15 - 2:45,506
+22,CORE105_Spring2023_S06,Truong Trung Kien,30,Tue_Fri,3:00 - 4:30,302
+23,CORE105_Spring2023_S07,Nguyen Hop Minh,30,Thu,8:00 - 11:15,302
+24,CORE105_Spring2023_S08,Le Quan,30,Mon_Wed,8:00 - 9:30,303
+25,CORE105_Spring2023_S09,Doan Nhat Minh,30,Tue_Fri,8:00 - 9:30,303
+26,CORE105_Spring2023_S10,Phung Manh Duong,30,Mon_Wed,9:45 - 11:15,303
+27,CS201_Spring2023_S01,Phan Thanh Trung,50,Mon_Wed,3:00 - 4:30,506
+28,CS205_Spring2023_S01,Phan Thanh Trung,50,Tue_Fri,3:00 - 4:30,506
+29,CS207_Spring2023_S01,Ha Viet Uyen Synh,50,Thu,8:00 - 11:15,506
+30,CS209_Spring2023_S01,Dang Huynh,40,Mon_Wed,8:00 - 9:30,507
+31,CS301_Spring2023_S01,Klyne Smith,50,Tue_Fri,8:00 - 9:30,507
+32,CS302_Spring2023_S01,Huynh Viet Linh,40,Mon_Wed,9:45 - 11:15,507
+33,ECON101_Spring2023_S02,Lan Nguyen,50,Tue_Fri,9:45 - 11:15,507
+34,ECON103_Spring2023_S02,Hoang Van Khieu,50,Tue_Thu,1:15 - 2:45,507
+35,ECON201_Spring2023_S01,Graeme Walker,40,Wed_Fri,1:15 - 2:45,507
+36,ECON203_Spring2023_S01,Luu Duc Thi,40,Mon_Wed,3:00 - 4:30,507
+37,ECON205_Spring2023_S01,Willem Smit,40,Tue_Fri,3:00 - 4:30,507
+38,ECON210_Spring2023_S02,Dana Doan and Graeme Walker,40,Thu,8:00 - 11:15,507
+39,ECON303_Spring2023_S02,Lan Nguyen,30,Tue_Thu,1:15 - 2:45,303
+40,ECON306_Spring2023_S01,Phan Tuan Ngoc,30,Tue_Fri,9:45 - 11:15,303
+41,EL101_Spring2023_S01,Lan Thi Nguyen,20,Wed_Fri,1:15 - 2:45,303
+42,ENG205_Spring2023_S01,Nguyen Hop Minh,40,Mon_Wed,8:00 - 9:30,508
+43,ENG207_Spring2023_S01,Doan Nhat Minh,30,Mon_Wed,3:00 - 4:30,303
+44,ENG208_Spring2023_S01,Le Quan,25,Tue_Fri,3:00 - 4:30,303
+45,ENG209_Spring2023_S01,Truong Trung Kien,40,Tue_Fri,8:00 - 9:30,508
+46,ENG301_Spring2023_S01,Phung Manh Duong,30,Thu,8:00 - 11:15,303
+47,HIS102_Spring2023_S01,Elsa Costa,50,Mon_Wed,9:45 - 11:15,508
+48,HIS104_Spring2023_S01,Mark Frank,50,Tue_Fri,9:45 - 11:15,508
+49,HIS209_Spring2023_S01,Sean Fear,40,Tue_Thu,1:15 - 2:45,508
+50,HIS210_Spring2023_S01,Elsa Costa,40,Wed_Fri,1:15 - 2:45,508
+51,HIS211_Spring2023_S01,Mark Frank,40,Mon_Wed,3:00 - 4:30,508
+52,HIS307_Spring2023_S01,Sean Fear,30,Tue_Fri,3:00 - 4:30,508
+53,IS106_Spring2023_S01,Nhan Nguyen,40,Thu,8:00 - 11:15,508
+54,IS107_Spring2023_S01,Nguyen Thi Trang,50,Mon_Wed,8:00 - 9:30,509
+55,IS206_Spring2023_S01,Son Cao,30,Tue_Fri,8:00 - 9:30,509
+56,IS210_Spring2023_S01,Huynh Viet Linh,40,Tue_Fri,9:45 - 11:15,509
+57,IS212_Spring2023_S01,Nguyen Thi Hong Dung,40,Mon_Thu,9:45 - 11:15,509
+58,IS302_Spring2023_S01,Nguyen Thi Huyen Trang,30,Wed_Fri,1:15 - 2:45,509
+59,IS303_Spring2023_S01,Nguyen Thi Trang,15,Tue_Thu,1:15 - 2:45,509
+60,IS304_Spring2023_S01,Takato Suito,15,Mon_Wed,3:00 - 4:30,509
+61,LIT205_Spring2023_S01,Quan Ha,40,Tue_Fri,3:00 - 4:30,509
+62,LIT307_Spring2023_S01,Katarzyna Stempniak,30,Mon_Wed,8:00 - 9:30,5010
+63,LIT308_Spring2023_S01,Quan Ha,30,Tue_Fri,8:00 - 9:30,5010
+64,LIT309_Spring2023_S01,Vinh Phu Pham,30,Mon_Wed,9:45 - 11:15,5010
+65,MATH104_Spring2023_S01,Van Truong Son,50,Tue_Fri,9:45 - 11:15,5010
+66,MATH105_Spring2023_S02,Tran Duy Hien,50,Tue_Thu,1:15 - 2:45,5010
+67,MATH201_Spring2023_S01,Nguyen Trung Hieu,40,Wed_Fri,1:15 - 2:45,5010
+68,MATH202_Spring2023_S01,Tran Vinh Linh,40,Mon_Wed,3:00 - 4:30,5010
+69,MATH205_Spring2023_S01,Le Nhat Tan,40,Thu,8:00 - 11:15,5010
+70,MATH306_Spring2023_S01,Le Nhat Tan,30,Mon_Wed,8:00 - 9:30,5011
+71,MATH307_Spring2023_S01,Nguyen Trung Hieu,30,Tue_Fri,3:00 - 4:30,5010
+72,PSY101_Spring2023_S01,Nguyen Thi Lan,50,Tue_Fri,8:00 - 9:30,5011
+73,PSY202_Spring2023_S01,Kiều Thị Thanh Trà,40,Mon_Wed,9:45 - 11:15,5011
+74,PSY206_Spring2023_S01,Hoa Nguyen,40,Tue_Fri,9:45 - 11:15,5011
+75,PSY301_Spring2023_S01,Matthew McDonald,30,Tue_Thu,1:15 - 2:45,5011
+76,PSY305_Spring2023_S01,Matthew McDonald,30,Wed_Fri,1:15 - 2:45,5011
+77,PSY307_Spring2023_S01,Hoàng Minh Tố Nga,30,Mon_Wed,3:00 - 4:30,5011
+78,SEM302_Spring2023_S01,Faculty Members,50,Tue_Fri,3:00 - 4:30,5011
+79,SOCI102_Spring2023_S02,Liz Miles,50,Thu,8:00 - 11:15,5011
+80,SOCI105_Spring2023_S01,Hoa Nguyen,40,Mon_Wed,4:45 - 6:15,454
+81,SOCI214_Spring2023_S01,Tobias Burgers,40,Tue_Fri,4:45 - 6:15,454
+82,SOCI215_Spring2023_S01,Ivan Small,40,Mon_Wed,6:30 - 8:00,454
+83,SOCI216_Spring2023_S01,Ian Kalman,40,Tue_Fri,6:30 - 8:00,454
+84,SOCI303_Spring2023_S01,Tram Luong,25,Mon_Wed,4:45 - 6:15,302
+85,SOCI308_Spring2023_S01,Tobias Burgers,30,Mon_Wed,6:30 - 8:00,302
+86,SOCI309_Spring2023_S01,Liz Miles,30,Tue_Fri,4:45 - 6:15,302
+87,SOCI310_Spring2023_S01,Ian Kalman,30,Mon_Wed,4:45 - 6:15,303
+88,VS103_Spring2023_S01,Dao Le Na,50,Mon_Wed,4:45 - 6:15,506
+89,VS104_Spring2023_S01,Nguyen Thanh Trung,50,Tue_Fri,4:45 - 6:15,506
+90,VS112_Spring2023_S01,Pham Quang Trung (Viet Vu),50,Mon_Wed,6:30 - 8:00,506
+91,VS205_Spring2023_S01,Vu Minh Hoang,40,Tue_Fri,6:30 - 8:00,506
+92,VS206_Spring2023_S01,Phan Thu Van,40,Mon_Wed,4:45 - 6:15,507
+93,VS212_Spring2023_S01,Nicolas Weber,40,Tue_Fri,4:45 - 6:15,507
+94,VS304_Spring2023_S01,Nguyen Nam,30,Tue_Fri,6:30 - 8:00,302

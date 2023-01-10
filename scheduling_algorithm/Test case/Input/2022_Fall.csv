@@ -1,0 +1,86 @@
+﻿Course Code,Course Name,Faculty & Visiting Faculty,Place,Capacity,Classroom,Day,Time
+ARTS101_Fall2022_S01,Introduction to Visual Studies,Tram Luong,On-campus,50,Classroom 1,Tue + Thu,1500-1630
+ARTS101_Fall2022_S02,Introduction to Visual Studies,Richard Streitmatter Tran,On-campus,50,Classroom 1 ,Wed + Fri,0945-1115
+ARTS102_Fall2022_S01,Introduction to Art History and Theory,Pamela Corey,On-campus,50,Classroom 5,Mon + Wed,0800-0930
+ARTS104_Fall2022_S01,Video and Film Production,Aaron Toronto,On-campus,25,Arts,Tue,1000-1300
+ARTS107_Fall2022_S01,2D/3D Foundations,Richard Streitmatter-Tran,On-campus,25,Maker Space,Wed,1500-1800
+ARTS206_Fall2022_S01,Principles of Acting,Aaron Toronto,On-campus,25,Classroom 1,Mon,1700-2000
+ARTS211_Fall2022_S01,"Alien, Uncanny, Strange in E. Asian Cinema",Linda Zhang,On-campus,40,Classroom 1 ,Tue,1700-2000
+ARTS303_Fall2022_S01,Sound Art,Jacqueline Hoang-Nguyen,On-campus,30,Classroom 1 ,Wed,1700-2000
+ARTS398_Fall2022_S01,Independent Study: Advanced Readings in Theory,Pamela Corey,On-campus,10,MR1,Mon + Wed,0945-1115
+CORE101_Fall2022_S01,Global Humanities and Social Change,Tobias Burgers,On-campus,45,Classroom 5 ,Tue + Thu,1500-1630
+CORE101_Fall2022_S02,Global Humanities and Social Change,Mark Frank,On-campus,45,Classroom_502,Mon + Wed,0800-0930
+CORE101_Fall2022_S03,Global Humanities and Social Change,Matthew McDonald,On-campus,45,Classroom 5 ,Tue + Thu,1645-1815
+CORE101_Fall2022_S04,Global Humanities and Social Change,Ian Kalman,On-campus,45,Classroom_501 (wed) + Classroom 5 (fri),Wed + Fri,1500-1630
+CORE101_Fall2022_S05,Global Humanities and Social Change,Linda Zhang,On-campus,45,Classroom 5,Mon + Wed,0945-1115
+CORE101_Fall2022_S06,Global Humanities and Social Change,Elsa Costa,On-campus,45,Classroom 5,Tue + Thu,0945-1115
+CORE103_Fall2022_S01,Quantitative Reasoning for a Digital Age,Phan Tuan Ngoc,On-campus,45,Classroom_502,Wed + Fri,1315-1445
+CORE103_Fall2022_S02,Quantitative Reasoning for a Digital Age,Phan Thanh Trung,On-campus,45,Classroom_502,Tue + Thu,1315-1445
+CORE103_Fall2022_S03,Quantitative Reasoning for a Digital Age,Huynh Viet Linh,On-campus,45,Classroom_502,Mon + Wed,0945-1115
+CORE103_Fall2022_S04,Quantitative Reasoning for a Digital Age,Lan Nguyen,On-campus,45,Classroom 1 ,Tue + Thu,1315-1445
+CORE103_Fall2022_S05,Quantitative Reasoning for a Digital Age,Khieu Van Hoang,On-campus,45,Classroom 1,Tue + Thu,0945-1115
+CORE104_Fall2022_S01,Scientific Inquiry,Nguyen Thi Hong Dung,On-campus,45,Science Lab,Wed + Fri,1315-1445
+CORE104_Fall2022_S02,Scientific Inquiry,Nguyen Thi Trang,On-campus,45,Science Lab,Tue + Thu,1315-1445
+CORE104_Fall2022_S03,Scientific Inquiry,Nguyen Thi Huyen Trang,On-campus,45,Science Lab,Tue + Thu,1645-1815
+CORE104_Fall2022_S04,Scientific Inquiry,Nguyen Giao Hoa,On-campus,45,Science Lab,Tue + Thu,0800-0930
+CORE105_Fall2022_S01,Design and Systems Thinking,Truong Trung Kien,On-campus,30,Maker Space,Tue + Thu,0800-0930
+CORE105_Fall2022_S02,Design and Systems Thinking,Nguyen Hop Minh,On-campus,30,Maker Space,Tue + Thu,0945-1115
+CORE105_Fall2022_S03,Design and Systems Thinking,Phung Manh Duong,On-campus,30,Maker Space,Tue + Thu,1315-1445
+CORE105_Fall2022_S04,Design and Systems Thinking,Doan Nhat Minh,On-campus,30,Maker Space,Tue + Thu,1645-1815
+CORE105_Fall2022_S05,Design and Systems Thinking,Le Quan,On-campus,30,Maker Space,Wed + Fri,1315-1445
+CS101_Fall2022_S01,Computer Science I,Phan Thanh Trung,On-campus,50,Ting,Wed + Fri,1500-1630
+CS102_Fall2022_S01,Algorithm,Huynh Viet Linh,On-campus,50,Classroom 5 ,Fri,0800-1100
+CS203_Fall2022_S01,Computer Organization,Truong Trung Kien,On-campus,40,Science Lab,Tue + Thu,0945-1115
+CS208_Fall2022_S01,Machine Learning for Data Science,Dang Huynh,On-campus,40,Classroom 1,Mon,0900-1200
+CS306_Fall2022_S01,Network and Computer Security ,Nhut Nguyen,Online,30,ONLINE,Tue + Thu,0730-0900
+CS307_Fall2022_S01,Introduction to Machine Learning,Vincent Ng,Online,30,ONLINE,Mon,0800-1100
+CS309_Fall2022_S01,Advanced Programming Techniques,Synh Ha,On-campus,30,Clasroom 6,Thu,1315-1615
+ECON101_Fall2022_S01,Principles of Economics 1,Lan Nguyen,On-campus,50,Classroom 6 + Classroom 9,Wed + Fri,1500-1630
+ECON103_Fall2022_S01,Principles of Economics 2,Khieu Van Hoang,On-campus,50,Classroom 5,Tue + Thu,1500-1630
+ECON209_Fall2022_S01,Econometrics,Phan Tuan Ngoc,On-campus,40,Classroom 5,Mon + Wed,1500-1630
+ECON210_Fall2022_S01,Giving and Effectiveness,Dana Doan and Graeme Walker,On-campus,40,Classroom 6,Mon,0945-1115
+ECON302_Fall2022_S01,Economics of Inequality,Khieu Van Hoang,On-campus,30,Classroom_502,Tue + Thu,1500-1630
+ECON305_Fall2022_S01,Behavioural and Experimental Economics,Graeme Walker,On-campus,30,Arts,Tue,1315-1445
+ENG102_Fall2022_S01,Engineering Exploration: Sink or Swim,Doan Nhat Minh,On-campus,30,Maker Space,Mon + Wed,0800-0930
+ENG201_Fall2022_S01,Product Development,Le Quan,On-campus,25,Science Lab,Wed + Fri,1500-1630
+ENG202_Fall2022_S01,Intelligent Robot Studio: From Theory to Practice,Phung Manh Duong,On-campus,30,Maker Space,Mon,1315-1630
+ENG204_Fall2022_S01,"Sensors, Measurement and Analysis",Nguyen Hop Minh,On-campus,40,Science Lab,Mon + Wed,0945-1115
+HIS105_Fall2022_S01,Global History Lab: History of the World,Antoine Le,Online,50,ONLINE,Mon + Wed,1500-1630
+HIS108_Fall2022_S01,US in the World,Sean Fear,On-campus,50,Classroom 6,Tue + Thu,1130-1300
+HIS208_Fall2022_S01,The Global Vietnam War I,Sean Fear,On-campus,40,Classroom 1,Wed + Fri,0800-0930
+HIS301_Fall2022_S01,History of International Communism,Vu Minh Hoang,On-campus,30,Arts,Mon + Wed,1500-1630
+HIS304_Fall2022_S01,Asian Borderlands,Mark Frank,On-campus,30,Classroom 9 ,Tue + Thu,0945-1115
+HIS306_Fall2022_S01,Race and Empire,Elsa Costa,On-campus,30,Arts,Tue + Thu,1645-1815
+IS101_Fall2022_S01,Introductory Biology,Nguyen Thi Hong Dung,On-campus,50,Classroom 5,Tue + Thu,1130-1300
+IS103_Fall2022_S01,Environmental Sciences,Nguyen Thi Huyen Trang,On-campus,50,Classroom 6 + Classroom 9,Mon + Wed,1315-1445
+IS205_Fall2022_S01,Organic Chemistry,Nguyen Thi Trang,On-campus,40,Science Lab,Wed + Fri,0800-0930
+LIT101_Fall2022_S01,Foundations in Literary Studies,Isadora Wagner,On-campus,50,Arts,Fri,0900-1200
+LIT103_Fall2022_S01,Critical Methods in Literary Studies,Yen Vu,On-campus,50,Classroom 6,Tue + Thu,0800-0930
+LIT303_Fall2022_S01,"Film, Fiction, and the Making of Modern Vietnams",Yen Vu,On-campus,30,Classroom 1 ,Wed + Fri,1315-1445
+LIT305_Fall2022_S01,Pacific Voyages in Literature & Film,Isadora Wagner,On-campus,30,Arts,Mon,0900-1200
+MATH101_Fall2022_S01,Calculus,Nguyen Trung Hieu,On-campus,50,Ting,Tue + Thu,0730-0900
+MATH102_Fall2022_S01,Ideas of Math,Van Truong Son,On-campus,50,Classroom_502,Fri,0900-1200
+MATH103_Fall2022_S01,Linear Algebra,Nguyen Trung Hieu,On-campus,50,Classroom 5,Tue + Thu,1315-1445
+MATH105_Fall2022_S01,Introduction to Data Analysis,Van Truong Son,On-campus,50,Classroom 6 + Classroom 9,Mon + Wed,1830-2000
+MATH305_Fall2022_S01,Stochastic Calculus,Le Nhat Tan,On-campus,30,Classroom 9,Mon + Wed,0945-1115
+PSY101_Fall2022_S01,Introductory Psychology,Lan Thi Nguyen,On-campus,50,Classroom 1,Mon + Wed,1500-1630
+PSY203_Fall2022_S01,Social Psychology,Gary Giss,Online,40,ONLINE,Tue + Thu,0800-0930
+PSY204_Fall2022_S01,Personality Psychology,Hoàng Minh Tố Nga,On-campus,40,Classroom 5,Wed + Fri,1315-1445
+PSY205_Fall2022_S01,"Introduction to Psychological Disorders, Diagnosis & Treatment",Matthew McDonald,On-campus,40,Classroom_502,Mon,1315-1615
+PSY207_Fall2022_S01,Organizational Psychology,Lan Thi Nguyen,On-campus,40,Classroom 6,Tue + Thu,0945-1115
+PSY302_Fall2022_S01,Counseling Psychology,Hoàng Minh Tố Nga,On-campus,30,Arts,Tue + Thu,0800-0930
+SOCI102_Fall2022_S01,Social Inquiry And the Social Sciences,Ian Kalman,On-campus,50,Classroom 6,Wed + Fri,0800-0930
+SOCI105_Fall2022_S01,Research Methods & Statistics,Vu Bich Phuong,On-campus,50,Classroom 6,Tue + Thu,1645-1815
+SOCI109_Fall2022_S01,Ethnographic Research Methods,Tram Luong,On-campus,50,Classroom_502,Wed + Fri,1500-1630
+SOCI211_Fall2022_S01,Introduction to Science and Technology Studies,Tobias Burgers,On-campus,40,Classroom_502,Tue + Thu,0800-0930
+SOCI212_Fall2022_S01,South Korea: Society and Culture,Nankyung Choi,Online,40,ONLINE,Tue + Thu,1830-2000
+SOCI213_Fall2022_S01,Women and Politics,Nankyung Choi,Online,40,ONLINE,Tue + Thu,1500-1630
+VS106_Fall2022_S01,Cultural and Intellectual Foundation of Vietnamese Literary Chinese I,Phan Thu Van,On-campus,50,Classroom 1,Tue + Thu,0800-0930
+VS114_Fall2022_S01,Introduction to Champa and Khmer History,Nicolas Weber,On-campus,50,Classroom 9 ,Tue + Thu,1645-1815
+VS116_Fall2022_S01,Digital Humanities in Vietnam Studies Contexts I,Nguyen Nam & Phan Thanh Trung,On-campus,50,Classroom_502,Tue + Thu,0945-1115
+VS203_Fall2022_S01,The Challenge of Change: Civil Society and Social Movements in Vietnam,Nguyen Thanh Trung,On-campus,40,Classroom_502,Tue + Thu,1130-1300
+VS204_Fall2022_S01,The Legacy of the War in Retrospect I,Nguyen Nam,On-campus,20,Arts,Wed,0900-1200
+VS210_Fall2022_S01,What Movies Show and Don't Show: Film Adaptations in Asian Contexts,Dao Le Na,On-campus,40,Classroom 1,Thu,1700-2000
+VS214_Fall2022_S01,Developing Vietnam,Nguyen Nam,On-campus,25,Classroom 9 ,Fri,0800-1100
+VS215_Fall2022_S01,Contending Theories of International Relations: A Comprehensive View of Vietnam and the World,Nguyen Thanh Trung,On-campus,30,Ting,Wed + Fri,0945-1115
+VS303_Fall2022_S01,Sources for Vietnamese and Southeast Asian History,Nicolas Weber,On-campus,30,Arts,Mon + Wed,1315-1445

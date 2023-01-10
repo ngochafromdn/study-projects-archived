@@ -1,0 +1,86 @@
+,Course Name,Course Faculty,Course Capacity,Day,Time,Classroom
+0,ARTS101_Fall2022_S01,Tram Luong,50,Mon_Wed,8:00 - 9:30,506
+1,ARTS101_Fall2022_S02,Richard Streitmatter Tran,50,Tue_Fri,8:00 - 9:30,506
+2,ARTS102_Fall2022_S01,Pamela Corey,50,Mon_Wed,9:45 - 11:15,506
+3,ARTS104_Fall2022_S01,Aaron Toronto,25,Mon_Wed,8:00 - 9:30,302
+4,ARTS107_Fall2022_S01,Richard Streitmatter-Tran,25,Tue_Fri,8:00 - 9:30,302
+5,ARTS206_Fall2022_S01,Aaron Toronto,25,Mon_Wed,9:45 - 11:15,302
+6,ARTS211_Fall2022_S01,Linda Zhang,40,Mon_Wed,8:00 - 9:30,454
+7,ARTS303_Fall2022_S01,Jacqueline Hoang-Nguyen,30,Tue_Fri,9:45 - 11:15,302
+8,ARTS398_Fall2022_S01,Pamela Corey,10,Mon_Wed,8:00 - 9:30,101
+9,CORE101_Fall2022_S01,Tobias Burgers,45,Tue_Fri,8:00 - 9:30,454
+10,CORE101_Fall2022_S02,Mark Frank,45,Mon_Wed,9:45 - 11:15,454
+11,CORE101_Fall2022_S03,Matthew McDonald,45,Tue_Fri,9:45 - 11:15,454
+12,CORE101_Fall2022_S04,Ian Kalman,45,Tue_Thu,1:15 - 2:45,454
+13,CORE101_Fall2022_S05,Linda Zhang,45,Wed_Fri,1:15 - 2:45,454
+14,CORE101_Fall2022_S06,Elsa Costa,45,Mon_Wed,3:00 - 4:30,454
+15,CORE103_Fall2022_S01,Phan Tuan Ngoc,45,Tue_Fri,3:00 - 4:30,454
+16,CORE103_Fall2022_S02,Phan Thanh Trung,45,Thu,8:00 - 11:15,454
+17,CORE103_Fall2022_S03,Huynh Viet Linh,45,Tue_Fri,9:45 - 11:15,506
+18,CORE103_Fall2022_S04,Lan Nguyen,45,Tue_Thu,1:15 - 2:45,506
+19,CORE103_Fall2022_S05,Khieu Van Hoang,45,Wed_Fri,1:15 - 2:45,506
+20,CORE104_Fall2022_S01,Nguyen Thi Hong Dung,45,Mon_Wed,3:00 - 4:30,506
+21,CORE104_Fall2022_S02,Nguyen Thi Trang,45,Tue_Fri,3:00 - 4:30,506
+22,CORE104_Fall2022_S03,Nguyen Thi Huyen Trang,45,Thu,8:00 - 11:15,506
+23,CORE104_Fall2022_S04,Nguyen Giao Hoa,45,Mon_Wed,8:00 - 9:30,507
+24,CORE105_Fall2022_S01,Truong Trung Kien,30,Tue_Thu,1:15 - 2:45,302
+25,CORE105_Fall2022_S02,Nguyen Hop Minh,30,Wed_Fri,1:15 - 2:45,302
+26,CORE105_Fall2022_S03,Phung Manh Duong,30,Mon_Wed,3:00 - 4:30,302
+27,CORE105_Fall2022_S04,Doan Nhat Minh,30,Tue_Fri,3:00 - 4:30,302
+28,CORE105_Fall2022_S05,Le Quan,30,Thu,8:00 - 11:15,302
+29,CS101_Fall2022_S01,Phan Thanh Trung,50,Tue_Fri,8:00 - 9:30,507
+30,CS102_Fall2022_S01,Huynh Viet Linh,50,Mon_Thu,9:45 - 11:15,507
+31,CS203_Fall2022_S01,Truong Trung Kien,40,Tue_Fri,9:45 - 11:15,507
+32,CS208_Fall2022_S01,Dang Huynh,40,Tue_Thu,1:15 - 2:45,507
+33,CS306_Fall2022_S01,Nhut Nguyen,30,Mon_Wed,8:00 - 9:30,303
+34,CS307_Fall2022_S01,Vincent Ng,30,Tue_Fri,8:00 - 9:30,303
+35,CS309_Fall2022_S01,Synh Ha,30,Mon_Wed,9:45 - 11:15,303
+36,ECON101_Fall2022_S01,Lan Nguyen,50,Wed_Fri,1:15 - 2:45,507
+37,ECON103_Fall2022_S01,Khieu Van Hoang,50,Mon_Wed,3:00 - 4:30,507
+38,ECON209_Fall2022_S01,Phan Tuan Ngoc,40,Mon_Wed,8:00 - 9:30,508
+39,ECON210_Fall2022_S01,Dana Doan and Graeme Walker,40,Tue_Fri,3:00 - 4:30,507
+40,ECON302_Fall2022_S01,Khieu Van Hoang,30,Tue_Fri,9:45 - 11:15,303
+41,ECON305_Fall2022_S01,Graeme Walker,30,Tue_Thu,1:15 - 2:45,303
+42,ENG102_Fall2022_S01,Doan Nhat Minh,30,Wed_Fri,1:15 - 2:45,303
+43,ENG201_Fall2022_S01,Le Quan,25,Mon_Wed,3:00 - 4:30,303
+44,ENG202_Fall2022_S01,Phung Manh Duong,30,Tue_Fri,3:00 - 4:30,303
+45,ENG204_Fall2022_S01,Nguyen Hop Minh,40,Tue_Fri,8:00 - 9:30,508
+46,HIS105_Fall2022_S01,Antoine Le,50,Mon_Wed,9:45 - 11:15,508
+47,HIS108_Fall2022_S01,Sean Fear,50,Tue_Fri,9:45 - 11:15,508
+48,HIS208_Fall2022_S01,Sean Fear,40,Tue_Thu,1:15 - 2:45,508
+49,HIS301_Fall2022_S01,Vu Minh Hoang,30,Thu,8:00 - 11:15,303
+50,HIS304_Fall2022_S01,Mark Frank,30,Wed_Fri,1:15 - 2:45,508
+51,HIS306_Fall2022_S01,Elsa Costa,30,Tue_Fri,3:00 - 4:30,508
+52,IS101_Fall2022_S01,Nguyen Thi Hong Dung,50,Thu,8:00 - 11:15,508
+53,IS103_Fall2022_S01,Nguyen Thi Huyen Trang,50,Mon_Thu,3:00 - 4:30,508
+54,IS205_Fall2022_S01,Nguyen Thi Trang,40,Mon_Wed,8:00 - 9:30,509
+55,LIT101_Fall2022_S01,Isadora Wagner,50,Tue_Fri,8:00 - 9:30,509
+56,LIT103_Fall2022_S01,Yen Vu,50,Mon_Wed,9:45 - 11:15,509
+57,LIT303_Fall2022_S01,Yen Vu,30,Tue_Fri,9:45 - 11:15,509
+58,LIT305_Fall2022_S01,Isadora Wagner,30,Tue_Thu,1:15 - 2:45,509
+59,MATH101_Fall2022_S01,Nguyen Trung Hieu,50,Wed_Fri,1:15 - 2:45,509
+60,MATH102_Fall2022_S01,Van Truong Son,50,Mon_Wed,3:00 - 4:30,509
+61,MATH103_Fall2022_S01,Nguyen Trung Hieu,50,Tue_Fri,3:00 - 4:30,509
+62,MATH105_Fall2022_S01,Van Truong Son,50,Thu,8:00 - 11:15,509
+63,MATH305_Fall2022_S01,Le Nhat Tan,30,Mon_Wed,8:00 - 9:30,5010
+64,PSY101_Fall2022_S01,Lan Thi Nguyen,50,Tue_Fri,8:00 - 9:30,5010
+65,PSY203_Fall2022_S01,Gary Giss,40,Mon_Wed,9:45 - 11:15,5010
+66,PSY204_Fall2022_S01,Hoàng Minh Tố Nga,40,Tue_Fri,9:45 - 11:15,5010
+67,PSY205_Fall2022_S01,Matthew McDonald,40,Tue_Thu,1:15 - 2:45,5010
+68,PSY207_Fall2022_S01,Lan Thi Nguyen,40,Wed_Fri,1:15 - 2:45,5010
+69,PSY302_Fall2022_S01,Hoàng Minh Tố Nga,30,Mon_Wed,3:00 - 4:30,5010
+70,SOCI102_Fall2022_S01,Ian Kalman,50,Tue_Fri,3:00 - 4:30,5010
+71,SOCI105_Fall2022_S01,Vu Bich Phuong,50,Thu,8:00 - 11:15,5010
+72,SOCI109_Fall2022_S01,Tram Luong,50,Tue_Fri,8:00 - 9:30,5011
+73,SOCI211_Fall2022_S01,Tobias Burgers,40,Mon_Thu,8:00 - 9:30,5011
+74,SOCI212_Fall2022_S01,Nankyung Choi,40,Mon_Wed,9:45 - 11:15,5011
+75,SOCI213_Fall2022_S01,Nankyung Choi,40,Tue_Fri,9:45 - 11:15,5011
+76,VS106_Fall2022_S01,Phan Thu Van,50,Tue_Thu,1:15 - 2:45,5011
+77,VS114_Fall2022_S01,Nicolas Weber,50,Wed_Fri,1:15 - 2:45,5011
+78,VS116_Fall2022_S01,Nguyen Nam & Phan Thanh Trung,50,Mon_Wed,3:00 - 4:30,5011
+79,VS203_Fall2022_S01,Nguyen Thanh Trung,40,Tue_Fri,3:00 - 4:30,5011
+80,VS204_Fall2022_S01,Nguyen Nam,20,Mon_Wed,4:45 - 6:15,302
+81,VS210_Fall2022_S01,Dao Le Na,40,Mon_Wed,4:45 - 6:15,454
+82,VS214_Fall2022_S01,Nguyen Nam,25,Tue_Fri,4:45 - 6:15,302
+83,VS215_Fall2022_S01,Nguyen Thanh Trung,30,Mon_Wed,6:30 - 8:00,302
+84,VS303_Fall2022_S01,Nicolas Weber,30,Tue_Fri,6:30 - 8:00,302
