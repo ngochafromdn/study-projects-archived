@@ -49,6 +49,8 @@ capacity.
 1
  Back_up_Classroom_schedule: List of backup timeslots of 1:5 hours with classroom name,
 available time (day, timestamp). This list is generated ascendingly by capacity and time.
+
+
  Classroom_schedule only includes slots end before 4:30 p.m and Back_up_Classroom_schedule
 includes the slots start after 4:45 p.m. This assumption can be set up differently by user.
 Our procedure is designed in two steps: generate a function that will find suitable timeslots
