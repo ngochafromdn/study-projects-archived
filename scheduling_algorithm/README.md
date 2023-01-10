@@ -1,4 +1,7 @@
 
+Information about the project : Read the report or the beamer slide below
+
+
 # INSTRUCTIONS :
 
 ## Generate test case
