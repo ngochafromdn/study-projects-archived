@@ -1,0 +1,26 @@
+This coding file includes 5 files :
+
+1. The contribution file conclude function distribution(fileName) which will return the list of the total percentage of each word category in the LIWC dictionary. In the report, we will then take top 10 to analyze.
+
+2. 4 other files will conclude function which can extract color, scene, place, and object in the types of excel table.
+REMEMBER: run (a) first
+(a) first, in each file, we need to input the annotated file by running the syntax below, which I include in the python file:
+
+data_scene = pd.read_csv(Annotated_scene_file)
+
+b. To extract the information from the annotated file, we only need to run the function below :
+percentage_data_scene()
+ 
+c.  To extract an excel file of color, scene, places, or objects table in each file we have three steps :
+- (a) input annotated scene
+- (b) Run one function of these which you want to take with one argument filename of the AI_visual_file:
+
+Scenes file: add_scene_value_function(AI_visual_file)
+Places file: add_places_value_function(AI_visual_file)
+Objects file: add_objects_value_function(AI_visual_file)
+Colors file: add_color_value_function(AI_visual_file)
+
+- (c) run function write_excel_file(FileName) with the name following with.xlsx 
+
+
+ 

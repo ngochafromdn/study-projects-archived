@@ -1,0 +1,55 @@
+Start_time (seconds),end_time (seconds),duration (seconds),food_focus_existing (1 or 0),Youtuber_existing (1 or 0),eating_place_existing (1 or 0),description
+0,7,7,0,0,0,the scene of the street and street vendor
+8,9,1,0,0,1,Scene of a restaurant on the street
+10,12,2,1,0,1,"The scene of a woman makes ""Bánh mì"""
+13,18,5,1,0,1,"A woman makes ""Bún"" on the street."
+19,21,2,1,0,0,Scene of a fruit cart
+23,27,4,0,0,0,Scene of cars and motorbikes running on the road
+28,29,6,0,0,1,A woman sells food for guest on the street.
+30,34,4,1,0,0,Scene of a sticky rice cake
+35,42,7,1,0,1,Scene of egg coffee cup at Giang coffee
+43,47,4,0,0,0,Scene of the street
+48,51,3,1,0,1,Scene of the place that sells fried cakes.
+52,55,3,0,0,0,Scene of the street with the apperance of restaurants
+56,60,4,0,0,0,Scene of the street with the apperance of restaurants
+61,63,2,1,0,1,Scene of egg coffee cup at Giang coffee
+64,73,9,0,1,0,The youtuber's legs move and the video's intro text transitions
+74,106,32,0,1,0,Youtuber introduces the video and invite friends to start the food review trip in Hanoi.
+107,109,2,1,0,0,Scene of a fruit cart
+110,113,3,0,0,0,Scene of a temple in Hanoi
+114,135,21,0,1,0,Youtuber introduces Hang Bac street's history and the features. 
+136,140,4,0,0,1,Scene of xoi Yen restaurant on the street
+141,157,16,0,1,0,Youtuber invites people to come a famous place to eat.
+158,167,9,0,0,1,Introduces what is in Xoi Yen
+168,178,10,1,0,1,Xoi Yen's staff brings Xoi to the youtuber's table
+179,184,5,1,0,1,Close-up of the plate of sticky rice and other food on the table
+185,225,40,1,0,0,Take a close-up shot of each dish on the table and introduce the ingredients
+226,237,11,0,1,0,The youtuber tries the soybeans.
+238,262,24,0,1,0,The youtuber tries xoi consists of soya beans eyes with some fried onion.
+263,276,13,0,1,0,The youtuber tries the cucumber. 
+277,294,17,0,1,0,Youtubers move on the street in the old Quarter in Hanoi.
+295,311,16,0,1,1,Youtuber introduces the Highland coffee on the street.
+312,316,4,1,0,1,Scene of a noodle vendor at a street corner
+317,320,3,0,0,0,the decoration of the noodle vendor
+321,326,5,0,0,1,Hoi An Banh mi's shop image 
+327,366,39,0,1,1,The youtuber introduces Banh mi Hoi An shop and the culture of eating Banh mi
+367,376,9,1,0,1,The youtuber wondered if the Banh mi shop dont have a vegetarian option
+377,387,10,1,0,1,The youtuber introduces a Vietnamese fried cake shop (bánh rán)
+388,426,38,1,1,1,The youtuber introduces each type of cake in detail.
+427,438,11,1,1,0,Close-up shot of vegetarian dumplings and youtuber showing how it's fried
+439,469,30,1,1,0,the youtuber tries the vegetarian dumpling (banh bao)
+470,473,3,0,0,0,the tourist guide teaches the two youtubers the name banh bao
+474,479,5,0,1,0,the youtuber recall the name of it
+480,488,8,0,0,1,"food store called ""chè ngon phố cổ"""
+489,499,10,0,0,0,the tourist guides introduces the food
+500,504,4,0,0,0,the tourist guide introduces the name of the store
+505,523,18,0,0,0,the youtuber introduces the menu
+524,552,28,1,0,0,introducing three different kind soup
+553,584,31,1,0,0,the tourist guides desribes and explain the soup
+585,674,89,1,1,0,the youtuber tries the soup
+675,701,26,0,1,1,the egg coffee - lane (Giang cafe)
+702,815,113,1,1,0,the youtuber and the tourist guide talk about egg coffee
+816,828,12,1,0,0,egg coffee zoom in
+829,834,5,0,0,1,the view of the coffee shop
+835,838,3,1,0,0,the egg coffee
+839,881,42,0,1,0,youtubers say thank you to the tourist guide and video ending
