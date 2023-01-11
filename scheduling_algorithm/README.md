@@ -81,10 +81,10 @@ ________________________________________________________________________________
 
 ## Report 
 
-[CS102___Final_project _Read_me.pdf](https://github.com/ngantran03/algorithm_finalproject/files/10296106/CS102___Final_project._Read_me.pdf)
+[CS102___Final_project _Read_me.pdf](https://github.com/ngochafromdn/study-projects-archived/blob/main/scheduling_algorithm/Beamer-slide.pdf)
 
 ## Slide
-[CS102___Final_project___Beamer (2).pdf](https://github.com/ngantran03/algorithm_finalproject/files/10296111/CS102___Final_project___Beamer.2.pdf)
+[CS102___Final_project___Beamer (2).pdf](https://github.com/ngochafromdn/study-projects-archived/blob/main/scheduling_algorithm/Project%20report.pdf)
 
 
 
