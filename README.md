@@ -8,3 +8,5 @@
 5. Business pitch : SPYCare
 6. CS001 Final project : Vietnamese street food - social media data analysis
 7. Algorithm final project: scheduling algorithms
+8. Health inequality project : health data analytics
+9. Prisoner's Dilemma Games analysis
