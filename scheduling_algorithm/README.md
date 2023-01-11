@@ -43,16 +43,16 @@ ________________________________________________________________________________
 ## Decoding
 
 With csv file of n courses with course code, lecturer, capacity, and csv file of m classrooms with
-classroom name, available time, our code is decoded as follows:
+classroom name, available time, our code is decoded as follows: <br />
  Course_list: List of all courses code with its capacity. This list is sorted ascendingly by
-capacity.
- Conflicting_dict: ffaculties’sname: Œtimeslotsçg.
- Classroom_schedule: List of timeslots of 1:5 hours with classroom name, available time
-(day, timestamp). This list is generated ascendingly by capacity and time.
+capacity. <br />
+ Conflicting_dict: ffaculties’sname: Œtimeslotsçg. <br />
+ Classroom_schedule: List of timeslots of 1:5 hours with classroom name, available time <br />
+(day, timestamp). This list is generated ascendingly by capacity and time. <br />
 1
  Back_up_Classroom_schedule: List of backup timeslots of 1:5 hours with classroom name,
 available time (day, timestamp). This list is generated ascendingly by capacity and time.
-
+ <br />
 
  Classroom_schedule only includes slots end before 4:30 p.m and Back_up_Classroom_schedule
 includes the slots start after 4:45 p.m. This assumption can be set up differently by user.
@@ -60,9 +60,9 @@ Our procedure is designed in two steps: generate a function that will find suita
 for each course which will satisfy our conditions. Then, in the main function, run the previous
 function for all courses to get the final result. If the main algorithm print False, suggestions for
 backup timeslots (night classes) or adding classroooms will be printed. Else, the result where
-satisfy all constrains will be generated.
+satisfy all constrains will be generated. <br />
 Combining the encoding and procedure above, this is the pseudocode for scheduling problem,
-which includes an extra function and the main algorithm
+which includes an extra function and the main algorithm <br />
 
 ## Pseudocode : 
 
