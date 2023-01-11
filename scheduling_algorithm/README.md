@@ -27,14 +27,8 @@ ________________________________________________________________________________
 
 # ALGORITHMS <br />
 
-## INPUT:<br />
-    - Courses' information (n courses): Course name, Faculty, Capacity <br />
-    - Classrooms' information (m courses): Classroom name, Capacity, Schedule <br />
+<img width="936" alt="Ảnh chụp Màn hình 2023-01-11 lúc 20 32 56" src="https://user-images.githubusercontent.com/61641363/211819288-c756697e-59eb-41af-bdc3-763294952d28.png">
 
-## OUTPUT: <br />
-    - Can arrange --> True/False <br />
-    - If true: Print schedule <br />
-    - If false: Suggestion <br />
 
 ## DATA FORMAT: <br />
     - Courses' information: {course A: {faculty: faculty A, schedule: [sessionA, sessionB]}} <br />
@@ -81,10 +75,10 @@ ________________________________________________________________________________
 
 ## Report 
 
-[CS102___Final_project _Read_me.pdf](https://github.com/ngochafromdn/study-projects-archived/blob/main/scheduling_algorithm/Beamer-slide.pdf)
+[Report](https://github.com/ngochafromdn/study-projects-archived/blob/main/scheduling_algorithm/Beamer-slide.pdf)
 
 ## Slide
-[CS102___Final_project___Beamer (2).pdf](https://github.com/ngochafromdn/study-projects-archived/blob/main/scheduling_algorithm/Project%20report.pdf)
+[](https://github.com/ngochafromdn/study-projects-archived/blob/main/scheduling_algorithm/Project%20report.pdf)
 
 
 
