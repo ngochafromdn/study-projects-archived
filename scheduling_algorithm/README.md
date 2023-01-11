@@ -78,7 +78,7 @@ ________________________________________________________________________________
 [Report](https://github.com/ngochafromdn/study-projects-archived/blob/main/scheduling_algorithm/Beamer-slide.pdf)
 
 ## Slide
-[S](https://github.com/ngochafromdn/study-projects-archived/blob/main/scheduling_algorithm/Project%20report.pdf)
+[SLIDE](https://github.com/ngochafromdn/study-projects-archived/blob/main/scheduling_algorithm/Project%20report.pdf)
 
 
 
