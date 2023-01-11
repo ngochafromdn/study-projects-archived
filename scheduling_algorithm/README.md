@@ -55,18 +55,25 @@ available time (day, timestamp). This list is generated ascendingly by capacity 
  <br />
 
  Classroom_schedule only includes slots end before 4:30 p.m and Back_up_Classroom_schedule
-includes the slots start after 4:45 p.m. This assumption can be set up differently by user.
+includes the slots start after 4:45 p.m. <br />
+
+
+This assumption can be set up differently by user. <br />
+
 Our procedure is designed in two steps: generate a function that will find suitable timeslots
 for each course which will satisfy our conditions. Then, in the main function, run the previous
-function for all courses to get the final result. If the main algorithm print False, suggestions for
+function for all courses to get the final result. <br />
+
+If the main algorithm print False, suggestions for
 backup timeslots (night classes) or adding classroooms will be printed. Else, the result where
 satisfy all constrains will be generated. <br />
+
 Combining the encoding and procedure above, this is the pseudocode for scheduling problem,
 which includes an extra function and the main algorithm <br />
 
 ## Pseudocode : 
 
-<img width="551" alt="Ảnh chụp Màn hình 2022-12-23 lúc 23 00 49" src="https://user-images.githubusercontent.com/61641363/209364307-accb174b-faa9-483b-bcd3-6c5e98ed00e4.png">
+<img width="551" alt="Ảnh chụp Màn hình 2022-12-23 lúc 23 00 49" src="https://user-images.githubusercontent.com/61641363/209364307-accb174b-faa9-483b-bcd3-6c5e98ed00e4.png"> 
 
 <img width="483" alt="Ảnh chụp Màn hình 2022-12-23 lúc 23 01 17" src="https://user-images.githubusercontent.com/61641363/209364353-533c8b88-4067-4fa0-a69c-05736f3d0283.png">
 
