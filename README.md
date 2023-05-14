@@ -1,6 +1,7 @@
 # study-projects-archived
 
-1. Math and Science Summer Program: Some problems in Gambling 				Jan 2019 – Jul 2019
+Here is some of my study projects until December 2022
+1. Math and Science Summer Program: Some problems in Gambling 
 2. Designing algorithms for school’s scheduling		          					
 3. Exploring technology trend using Github data		          						
 4. Application of Integrals in consumer and producer's surplus		          				
